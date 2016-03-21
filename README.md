@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # WorkshopElixir
 
 **TODO: Add description**
@@ -19,6 +18,3 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
           [applications: [:workshop_elixir]]
         end
 
-=======
-# opensanca_workshop_elixir
->>>>>>> 41383666d1f26b3c28fb1bad8d3e3ec23c0a06d2
